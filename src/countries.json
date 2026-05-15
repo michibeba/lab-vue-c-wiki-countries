@@ -1,0 +1,72 @@
+[
+  {
+    "name": { "common": "Spain" },
+    "alpha3Code": "ESP",
+    "alpha2Code": "ES",
+    "capital": ["Madrid"],
+    "area": 505990
+  },
+  {
+    "name": { "common": "France" },
+    "alpha3Code": "FRA",
+    "alpha2Code": "FR",
+    "capital": ["Paris"],
+    "area": 551695
+  },
+  {
+    "name": { "common": "Germany" },
+    "alpha3Code": "DEU",
+    "alpha2Code": "DE",
+    "capital": ["Berlin"],
+    "area": 357022
+  },
+  {
+    "name": { "common": "Italy" },
+    "alpha3Code": "ITA",
+    "alpha2Code": "IT",
+    "capital": ["Rome"],
+    "area": 301336
+  },
+  {
+    "name": { "common": "Portugal" },
+    "alpha3Code": "PRT",
+    "alpha2Code": "PT",
+    "capital": ["Lisbon"],
+    "area": 92212
+  },
+  {
+    "name": { "common": "United Kingdom" },
+    "alpha3Code": "GBR",
+    "alpha2Code": "GB",
+    "capital": ["London"],
+    "area": 242495
+  },
+  {
+    "name": { "common": "United States" },
+    "alpha3Code": "USA",
+    "alpha2Code": "US",
+    "capital": ["Washington, D.C."],
+    "area": 9833520
+  },
+  {
+    "name": { "common": "Brazil" },
+    "alpha3Code": "BRA",
+    "alpha2Code": "BR",
+    "capital": ["Brasília"],
+    "area": 8515767
+  },
+  {
+    "name": { "common": "Japan" },
+    "alpha3Code": "JPN",
+    "alpha2Code": "JP",
+    "capital": ["Tokyo"],
+    "area": 377975
+  },
+  {
+    "name": { "common": "Australia" },
+    "alpha3Code": "AUS",
+    "alpha2Code": "AU",
+    "capital": ["Canberra"],
+    "area": 7692024
+  }
+]
